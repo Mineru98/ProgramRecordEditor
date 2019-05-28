@@ -14,14 +14,14 @@ StackOverFlow나 다른 여타 블로그에서 개발 도중에 일어난 문제
 
 # 개발 목표
 
-1. 작업 중인 컴퓨터에 설치 된 IDE을 자동으로 추출.(현재 IDE의 Version과 내부의 모듈 Version 출력)
-2. 언어(Android-Java, NodeJS)
-3. Chrome App으로 동작.
-4. Android
+- 작업 중인 컴퓨터에 설치 된 IDE을 자동으로 추출.(현재 IDE의 Version과 내부의 모듈 Version 출력)
+- 언어(Android-Java, NodeJS)
+- Chrome App으로 동작.
+- Android
  - gladle 버전
  - android studio 버전
  - android API 버전
-5. NodeJS
+- NodeJS
  - npm 모듈
  - npm global 모듈
  
