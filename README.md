@@ -18,12 +18,12 @@ StackOverFlow나 다른 여타 블로그에서 개발 도중에 일어난 문제
 - 언어(Android-Java, NodeJS)
 - Chrome App으로 동작.
 - Android
- - gladle 버전
- - android studio 버전
- - android API 버전
+  - gladle 버전
+  - android studio 버전
+  - android API 버전
 - NodeJS
- - npm 모듈
- - npm global 모듈
+  - npm 모듈
+  - npm global 모듈
  
  # 개발 기간
  
